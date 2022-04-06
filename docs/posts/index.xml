@@ -7,5 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://enriqueaguilarp.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi ruta de aprendizaje</title>
+      <link>https://enriqueaguilarp.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://enriqueaguilarp.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>En mi recorrido por Launch X he aprendido:
+ Lógica de programación Python Git Github Command Line Requerimientos de un proyecto de software Wireframes Maquetación en HTML Hacer un pokedex usando CSS Trabajar con componentes usando Vue y Vuex para estados Revisar nociones de Angular y Azure Comenzar con mi travesía desde el lado back-end  </description>
+    </item>
+    
   </channel>
 </rss>
