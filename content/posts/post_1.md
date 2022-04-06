@@ -1,7 +1,7 @@
 ---
 title: "Mi ruta de aprendizaje"
 date: 2022-04-06
-description: 'Mi ruta de aprendizaje'
+description: 'Te invito a leer mi recorrido en Launch X de Innovaccion Virtual'
 ---
 
 En mi recorrido por Launch X he aprendido:  
